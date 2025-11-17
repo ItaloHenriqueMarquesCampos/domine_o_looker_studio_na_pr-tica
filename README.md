@@ -20,3 +20,8 @@ Com exemplos reais e linguagem simples, você vai desenvolver confiança para cr
 
 - **Vendas do Supermercado**  
   👉 [Acessar planilha](https://docs.google.com/spreadsheets/d/1B5fTK2NsTi2ZL9sfPqzsjaAsndBbULe5dLYXbQbh2cg)
+
+- **Looker Studio**  
+  👉 [Acessar Looker Studio](https://lookerstudio.google.com/u/0/navigation/reporting)
+  
+
