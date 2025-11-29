@@ -13,7 +13,7 @@ Com exemplos reais e linguagem simples, você vai desenvolver confiança para cr
   👉 [Acessar Looker Studio](https://lookerstudio.google.com/u/0/navigation/reporting)
 
 --- 
-- **🏪 Loja de Roupas**
+**🏪 Loja de Roupas**
   
 - **Loja de Roupas**  
   👉 [Acessar planilha](https://docs.google.com/spreadsheets/d/1OyWgB5NzxGgadSfv3L_VOATiYRYY3MTLO25PI0pI-uw)
@@ -22,7 +22,7 @@ Com exemplos reais e linguagem simples, você vai desenvolver confiança para cr
   👉 [Acessar planilha](https://lookerstudio.google.com/reporting/ce6f2d19-22b6-4c9f-91be-9eaa659a6786)
 
 ---
-- **🛒 Supermercado**
+**🛒 Supermercado**
   
 - **Base de Clientes**  
   👉 [Acessar planilha](https://docs.google.com/spreadsheets/d/1Uij1l7sWLgJkShvRQWYJ7ha6lh7gA4LucEHjNO_RLnU)
