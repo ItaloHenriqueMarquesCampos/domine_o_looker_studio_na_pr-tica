@@ -19,7 +19,7 @@ Com exemplos reais e linguagem simples, você vai desenvolver confiança para cr
   👉 [Acessar planilha](https://docs.google.com/spreadsheets/d/1OyWgB5NzxGgadSfv3L_VOATiYRYY3MTLO25PI0pI-uw)
 
 - **Dashboard - Loja de Roupas**  
-  👉 [Acessar planilha](https://lookerstudio.google.com/reporting/ce6f2d19-22b6-4c9f-91be-9eaa659a6786)
+  👉 [Acessar dash](https://lookerstudio.google.com/reporting/ce6f2d19-22b6-4c9f-91be-9eaa659a6786)
 
 ---
 **🛒 Supermercado**
@@ -34,6 +34,6 @@ Com exemplos reais e linguagem simples, você vai desenvolver confiança para cr
   👉 [Acessar planilha](https://docs.google.com/spreadsheets/d/1B5fTK2NsTi2ZL9sfPqzsjaAsndBbULe5dLYXbQbh2cg)
 
 - **Dashboard - Supermercado**  
-  👉 [Acessar planilha](https://lookerstudio.google.com/reporting/ce6f2d19-22b6-4c9f-91be-9eaa659a6786)
+  👉 [Acessar dash](https://lookerstudio.google.com/reporting/ce6f2d19-22b6-4c9f-91be-9eaa659a6786)
   
 
