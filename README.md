@@ -7,6 +7,14 @@ Com exemplos reais e linguagem simples, você vai desenvolver confiança para cr
 
 ---
 
+## ℹ️ Sobre este repositório
+
+Material de apoio do curso **Domine Looker Studio na Prática**. Ele reúne os links das bases de dados em Google Sheets
+usadas nas aulas e dos dashboards prontos de cada exercício (loja de roupas, supermercado e outros), para que
+o aluno possa copiar as bases e reproduzir os painéis.
+
+---
+
 ## 📂 Bases de Dados Utilizadas no Curso
 
 - **Acesse o Looker Studio**  
